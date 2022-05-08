@@ -1,4 +1,3 @@
-// Write class below
 class ShiftCipher {
   constructor(shiftBy) {
     this._shiftBy = shiftBy;
